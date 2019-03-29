@@ -101,7 +101,8 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Renan Magagnin](https://www.linkedin.com/in/renanmagagnin/)|[GitHub](https://github.com/RenanMagagnin/mindblower-wwdc19)|[YouTube](https://www.youtube.com/watch?v=xH9cn7BtG8k)|SpriteKit, AVFoundation |Submitted|
 |[Renata Faria](https://www.linkedin.com/in/renatafg-240996)|[GitHub](https://github.com/xReee/wwdc2019)|[YouTube](https://youtu.be/xcTyaG1eo98)|ARKit, UIGestures, AVFoundation, SceneKit |Submitted|
 |[Riley Walz](https://twitter.com/rtwlz)||[YouTube](https://www.youtube.com/watch?v=INF2xPXhTbY)|SpriteKit, GameplayKit, NaturalLanguage|Submitted|
-|[Sahith Thummalapally](https://sahithr03.github.io)|[Github](https://github.com/sahithr03)|[Youtube] (https://youtu.be/h0jERgTNPdU)|AVKit, UIKit, Vision, CoreML|Submitted|
+|[Roland Horváth](https://twitter.com/hroland_)||[YouTube](https://www.youtube.com/watch?v=M-qtaV6lY_g)|CoreML, Vision, ARKit, AVFoundation |Submitted|
+|[Sahith Thummalapally](https://sahithr03.github.io)|[Github](https://github.com/sahithr03)|[Youtube](https://youtu.be/h0jERgTNPdU)|AVKit, UIKit, Vision, CoreML|Submitted|
 |[Sai Kambampati](https://twitter.com/Sai_K1065)||[YouTube](https://www.youtube.com/watch?v=QCREUCZlLd4)|UIKit, SceneKit, ARKit, CoreML|Submitted|
 |[Sam Eckert](https://twitter.com/sam0711er)||[YouTube](https://youtu.be/8GhNUKteLMg)|AVFoundation, SpriteKit, Vision & CoreML|Submitted|
 |[Sergen Gönenç](https://twitter.com/sertheapplr)|[GitHub](https://github.com/sergendev/DysgraphAI)||UIKit, CoreML, Vision, Create ML|Submitted|
@@ -121,6 +122,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Vlad Munteanu](http://vladcmunteanu.com)|[GitHub](https://github.com/vlad-munteanu/PearWatch)|[YouTube](https://www.youtube.com/watch?v=nGTPjg6663Q)|SpriteKit, AVFoundation|Submitted|
 |[Wendy Liga](https://wendyliga.com)|[GitHub](https://github.com/wendyliga/talking-emoji)|[YouTube](https://youtu.be/t48H-y7Yoc0)|UIKit|Submitted|
 |[Will Bishop](https://twitter.com/WillRBishop)|[GitHub](https://github.com/WillBishop/WWDC19)|[YouTube](https://youtu.be/x6KQtIDTKU0)|SpriteKit, AppKit|Submitted|
+|[Will Kwok](https://twitter.com/yuhokwok)|[GitHub](https://github.com/yuhokwok/wwdc19)|[YouTube](https://youtu.be/PpY0OP3s6wc)|CoreML, AVFoundation|Submitted|
 |William Irwin III|[GitHub](https://github.com/Tungsten533/Nekopalypse)||SpriteKit, AVFoundation|Submitted|
 |[William Taylor](https://github.com/wfltaylor)||[YouTube](https://youtu.be/pUzvXQJEh30)|SceneKit, ARKit, UIKit, SpriteKit|Submitted|
 |Xi Zhao|[GitHub](https://github.com/ZXXZ00/WWDC19)|[YouTube](https://www.youtube.com/watch?v=qNBlJpHogk4)|SpriteKit|Submitted|
